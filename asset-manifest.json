@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/sunny-valentines-2022/static/css/main.715a411f.css",
-    "main.js": "/sunny-valentines-2022/static/js/main.0d3ae681.js",
+    "main.js": "/sunny-valentines-2022/static/js/main.1ba145dc.js",
     "static/js/787.56d21822.chunk.js": "/sunny-valentines-2022/static/js/787.56d21822.chunk.js",
-    "static/media/beach3.png": "/sunny-valentines-2022/static/media/beach3.faa2ef987f03c6fe24de.png",
+    "static/media/beach5.png": "/sunny-valentines-2022/static/media/beach5.a5a5e768bf4ab87a3371.png",
     "index.html": "/sunny-valentines-2022/index.html",
     "main.715a411f.css.map": "/sunny-valentines-2022/static/css/main.715a411f.css.map",
-    "main.0d3ae681.js.map": "/sunny-valentines-2022/static/js/main.0d3ae681.js.map",
+    "main.1ba145dc.js.map": "/sunny-valentines-2022/static/js/main.1ba145dc.js.map",
     "787.56d21822.chunk.js.map": "/sunny-valentines-2022/static/js/787.56d21822.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.715a411f.css",
-    "static/js/main.0d3ae681.js"
+    "static/js/main.1ba145dc.js"
   ]
 }
