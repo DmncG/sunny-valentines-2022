@@ -57,10 +57,6 @@
 }
 
 @media only screen and (min-width: 1440px) {
-  .blender__div{
-    max-width: 1400px;
-    padding: 40px 0;
-  }
 
   .message__div{
     max-width: 500px;
