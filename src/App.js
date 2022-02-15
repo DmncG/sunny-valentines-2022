@@ -1,5 +1,5 @@
 import './App.css';
-import beach from './beach3.png';
+import beach from './beach5.png';
 
 function App() {
   return (
