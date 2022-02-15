@@ -2,11 +2,22 @@
   background-color: #cc6b49;
 }
 
+.blender__div{
+  width: 320px;
+  margin: auto;
+}
+
+.blender__image{
+  width: 100%;
+}
+
 .message__div{
   font-family: 'Poppins', sans-serif;
   line-height: 1.5;
   padding: 8px;
-  
+  font-size: 15px;
+  margin: 16px auto auto auto;
+  /* margin: 16px auto; */
 }
 
 .header__h1{
@@ -24,26 +35,42 @@
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+@media only screen and (min-width: 425px) {
+  .blender__div{
+    width: 425px;
   }
-  to {
-    transform: rotate(360deg);
+}
+
+@media only screen and (min-width: 768px) {
+  .blender__div{
+    width: 768px;
+  }
+
+  .message__div{
+    max-width: 500px;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  .blender__div{
+    width: 100%;
+    max-width: 800px;
+    padding: 32px 0;
+  }
+
+  .message__div{
+    max-width: 500px;
+  }
+}
+
+@media only screen and (min-width: 1440px) {
+  .blender__div{
+    width: 100%;
+    max-width: 1400px;
+    padding: 40px 0;
+  }
+
+  .message__div{
+    max-width: 500px;
   }
 }
